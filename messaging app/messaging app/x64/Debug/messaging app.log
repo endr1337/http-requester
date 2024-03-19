@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2019: unresolved external symbol __imp_curl_easy_strerror referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_curl_easy_init referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_curl_easy_setopt referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_curl_easy_perform referenced in function main
+main.obj : error LNK2019: unresolved external symbol __imp_curl_easy_cleanup referenced in function main
+C:\Users\Jackson\source\repos\messaging app\x64\Debug\messaging app.exe : fatal error LNK1120: 5 unresolved externals
